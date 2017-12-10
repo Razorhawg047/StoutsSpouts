@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: lightgray;
+    background-image: url("../photos/tree.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.jumbotron {
+    text-align: center;
+}
+.card{
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+footer{
+    background: lightgray;
+}
