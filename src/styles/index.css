@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     background: lightgray;
-    background-image: url("../photos/tree.jpg");
+    background-image: url("../photos/Tree.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
